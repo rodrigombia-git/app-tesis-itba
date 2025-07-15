@@ -1,17 +1,1 @@
-# Framework y UI
 streamlit
-
-# Base de Datos y API
-supabase
-python-dotenv
-postgrest
-
-# Manipulación de Datos y Fechas
-pandas
-python-dateutil
-
-# Gráficos y Visualización
-plotly
-
-# Seguridad y Contraseñas
-bcrypt
